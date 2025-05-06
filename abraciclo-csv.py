@@ -3,8 +3,8 @@ import os #biblioteca pra interação com o sistema de arquivos
 import pandas as pd #manipulação dos dados em tabela
 
 
-pasta_csv = "C:\Users\cabrala\abraciclo_teste_entrada\K3249.G29822DND50103.csv" #define o caminho do arquivos csv
-arquivo_saida = "C:\Users\cabrala\abraciclo_teste_saida\arquivo.csv" #define o caminho do arquivo concatenado
+pasta_csv = "C:\\abraciclo\\entrada" #define o caminho do arquivos csv
+arquivo_saida = "C:\\abraciclo\\saida" #define o caminho do arquivo concatenado
 
 dados_concatenados = [] #lista para armazenar todas as linhas dos arquivos CSV
 
